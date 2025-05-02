@@ -18,11 +18,10 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+![Faliqulxx](img/github-header-image.png)
 
 ###
 
-![Faliqulxx]("D:\UMM\KULIAH\Faliqulxx\github-header-image.png")
 
 <h3 align="left">👩‍💻  About Me</h3>
 
