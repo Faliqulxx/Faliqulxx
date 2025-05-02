@@ -22,6 +22,8 @@
 
 ###
 
+![Header](./github-header-image.png)
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
