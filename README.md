@@ -22,7 +22,7 @@
 
 ###
 
-![Header]("D:\UMM\KULIAH\Faliqulxx\github-header-image.png")
+![Faliqulxx]("D:\UMM\KULIAH\Faliqulxx\github-header-image.png")
 
 <h3 align="left">👩‍💻  About Me</h3>
 
