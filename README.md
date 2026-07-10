@@ -87,7 +87,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
-###
 
 
 <h3 align="left">📱Let's connect</h3>
