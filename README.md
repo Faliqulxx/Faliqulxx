@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://www.instagram.com/faliqulxx/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Faliqulxx" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Faliqulx" />
   </a>
 
   <a href="mailto:your-email@example.com">
