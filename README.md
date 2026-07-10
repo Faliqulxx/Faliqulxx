@@ -5,19 +5,18 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/faliqul-ishbah/" target="_blank">
+  <a href="https://www.linkedin.com/in/faliqul-ishbah-407707356/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
 
-  <a href="https://www.instagram.com/faliqulxx/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="[Faliqulx](https://www.instagram.com/faliqulx)" />
+  <a href="https://www.instagram.com/faliqulx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
   </a>
 
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="faliqul.isback@gmail.com" />
+  <a href="mailto:faliqul.isback@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Email" />
   </a>
 </div>
-
 ###
 
 <div align="center">
