@@ -33,7 +33,12 @@
 
 ###
 
-<p align="left">I'm Faliq from Gresik<br><br>🔭 I’m an Informatics student at Universitas Muhammadiyah Malang<br>📚 I'm currently learning Data Analysis<br>⚡ In my free time, I learn Web Development</p>
+<p align="left">
+I'm Faliq, an Informatics Graduate from Gresik, Indonesia<br><br>
+📊 Passionate about Data Analysis, Business Intelligence & AI<br>
+💻 Building Web Applications with React, Next.js & Python<br>
+🚀 Exploring Data-Driven Solutions and Intelligent Automation
+</p>
 
 ###
 
